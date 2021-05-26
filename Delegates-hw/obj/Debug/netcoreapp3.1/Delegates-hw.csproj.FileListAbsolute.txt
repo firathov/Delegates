@@ -1,0 +1,12 @@
+/Users/firat/Documents/Delegates-hw/Delegates-hw/bin/Debug/netcoreapp3.1/Delegates-hw.deps.json
+/Users/firat/Documents/Delegates-hw/Delegates-hw/bin/Debug/netcoreapp3.1/Delegates-hw.runtimeconfig.json
+/Users/firat/Documents/Delegates-hw/Delegates-hw/bin/Debug/netcoreapp3.1/Delegates-hw.runtimeconfig.dev.json
+/Users/firat/Documents/Delegates-hw/Delegates-hw/bin/Debug/netcoreapp3.1/Delegates-hw.dll
+/Users/firat/Documents/Delegates-hw/Delegates-hw/bin/Debug/netcoreapp3.1/Delegates-hw.pdb
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.csprojAssemblyReference.cache
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.AssemblyInfoInputs.cache
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.AssemblyInfo.cs
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.dll
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.pdb
+/Users/firat/Documents/Delegates-hw/Delegates-hw/obj/Debug/netcoreapp3.1/Delegates-hw.genruntimeconfig.cache
