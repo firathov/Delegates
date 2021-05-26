@@ -35,7 +35,7 @@ namespace Delegates_hw
             bool player4 = true;
             do
             {
-                Console.WriteLine("\nChoose the player (1-2-3-4)");
+                Console.WriteLine("\nChoose the player (1-2-3-4). If you want to exit press 5");
                 byte mainNumber = ForNumberCheck();
                 switch (mainNumber)
                 {
@@ -145,6 +145,7 @@ namespace Delegates_hw
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write("You wrote the wrong symbol, pls try again: \n");
                 }
             }
